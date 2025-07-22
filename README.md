@@ -40,6 +40,6 @@ This showcase demonstrates my understanding of and ability to apply the followin
 
 * **Raji**
 
-* **[LinkedIn] (https://www.linkedin.com/in/rajiac/)**
+* **https://www.linkedin.com/in/rajiac/**
 
-* **rajiac26&@gmail.com**
+* **rajiac2607@gmail.com**
