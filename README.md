@@ -1,4 +1,4 @@
-# Sauce & Spoon-Project-Artifacts
+# Sauce & Spoon - Tablet Menu Project 
 
 # Project Management Course Showcase
 
