@@ -6,7 +6,7 @@ This repository contains artifacts created during my recent completion of a proj
 
 ## Overview
 
-This project demonstrates the application of project management methodologies to **The hypothetical launch of a Tablet Menu at 2 branches of Sauce & Spoon,"**. The artifacts included cover various stages of the project lifecycle, from initiation to review.
+This project demonstrates the application of project management methodologies to **The hypothetical launch of a Tablet Menu at 2 branches of Sauce & Spoon**. The artifacts included cover various stages of the project lifecycle, from initiation to review.
 
 ## Project Management Artifacts
 
@@ -38,6 +38,8 @@ This showcase demonstrates my understanding of and ability to apply the followin
 
 ## Contact
 
-**Raji**
-**[LinkedIn] (https://www.linkedin.com/in/rajiac/)**
-**rajiac26&@gmail.com**
+* **Raji**
+
+* **[LinkedIn] (https://www.linkedin.com/in/rajiac/)**
+
+* **rajiac26&@gmail.com**
