@@ -1,4 +1,4 @@
-# Sauce-Spon-Project-Artifacts
+# Sauce & Spoon-Project-Artifacts
 
 # Project Management Course Showcase
 
