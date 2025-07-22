@@ -39,7 +39,6 @@ This showcase demonstrates my understanding of and ability to apply the followin
 
 ## Contact
 
-* **Raji**
 
 * **https://www.linkedin.com/in/rajiac/**
 
